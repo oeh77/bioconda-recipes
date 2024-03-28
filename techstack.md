@@ -164,12 +164,12 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[WTForms](https://pypi.org/project/WTForms)|v1.0.4|01/29/16|Johannes Köster |BSD-3-Clause|N/A|
-|[bitarray](https://pypi.org/project/bitarray)|N/A|04/15/21|John Blischak |Python-2.0|N/A|
-|[pandas](https://pypi.org/project/pandas)|v0.21.0|04/15/21|John Blischak |BSD-3-Clause|N/A|
-|[pybedtools](https://pypi.org/project/pybedtools)|N/A|04/15/21|John Blischak |GPL-2.0|N/A|
-|[six](https://pypi.org/project/six)|v1.4.1|01/29/16|Johannes Köster |MIT|N/A|
-|[validators](https://pypi.org/project/validators)|v0.5.0|01/29/16|Johannes Köster |MIT|N/A|
+|[WTForms](https://pypi.org/project/WTForms)|v1.0.4|N/A|N/A |BSD-3-Clause|N/A|
+|[bitarray](https://pypi.org/project/bitarray)|N/A|N/A|N/A |Python-2.0|N/A|
+|[pandas](https://pypi.org/project/pandas)|v0.21.0|N/A|N/A |BSD-3-Clause|N/A|
+|[pybedtools](https://pypi.org/project/pybedtools)|N/A|N/A|N/A |GPL-2.0|N/A|
+|[six](https://pypi.org/project/six)|v1.4.1|N/A|N/A |MIT|N/A|
+|[validators](https://pypi.org/project/validators)|v0.5.0|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
